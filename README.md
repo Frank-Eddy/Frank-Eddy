@@ -2,7 +2,7 @@ Hi there, I'm Frank Eddy
 
 Senior Full Stack Engineer with 8+ years of experience building scalable, production-ready web applications and backend systems with **Python, FastAPI, Django, React, Node.js, and TypeScript**.
 
-I enjoy working across the stack — from designing APIs and data models to building interactive React applications, cloud infrastructure, asynchronous systems, and AI-powered product features.
+I enjoy working across the stack from designing APIs and data models to building interactive React applications, cloud infrastructure, asynchronous systems, and AI-powered product features.
 
 🚀 Tech Stack
 
